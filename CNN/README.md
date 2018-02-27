@@ -1,8 +1,11 @@
-[Convolutional Neural Networks](https://www.youtube.com/watch?v=FTr3n7uBIuE)
+Convolutional Neural Networks
 ---
 
 
-[Source Code](https://github.com/llSourcell/Convolutional_neural_network)
 
 
+# Sources
+
+
+* https://github.com/Belval/NaiveCNN
 
